@@ -1,0 +1,60 @@
+Chile,Paises,País de América del Sur conocido por su larga extensión a lo largo de la costa del Pacífico.
+Ghana,Paises,Nación en África occidental famosa por su rica historia y cultura.
+Qatar,Paises,País árabe rico en recursos petroleros ubicado en la península de Arabia.
+Japón,Paises,País insular en Asia Oriental, conocido por su tecnología y cultura única.
+India,Paises,Nación en el sur de Asia con una diversidad cultural y geográfica notable.
+Macao,Paises,es una de las dos regiones administrativas especiales que, junto con las veintidós provincias.
+Nauru,Paises,País, y estado de Micronesia, situado en el océano Pacífico central.
+Yemen,Paises,Nación en la península arábiga con una rica historia y una ubicación estratégica.
+Haití,Paises,país americano ubicado en La Española.
+Gabon,Paises,país en el Ecuador en África Central-Oeste que limita con el Océano Atlántico en el oeste.
+Nepal,Paises,es un país sin salida al mar ubicado en Asia del Sur.
+Libia,Paises,Nación del norte de África con una costa mediterránea.
+Benín,Paises,La República de Benin es de norte a sur un país de larga extensión en África Occidental.
+Kenia,Paises,País africano conocido por su vida salvaje y por ser el hogar de la sabana africana.
+Samoa,Paises,Nación insular en el Pacífico conocida por su belleza natural y cultura isleña.
+Malta,Paises,Pequeño país insular en el mar Mediterráneo con una rica historia.
+Iraq,Paises,país asiático de Oriente Próximo que abarca la mayor parte del noroeste de la cadena montañosa de Zagros.
+Sudán,Paises,Nación en el noreste de África con una rica historia y diversidad étnica.
+Suiza,Paises,País en Europa conocido por su neutralidad, bancos y paisajes alpinos.
+Congo,Paises,País en África central conocido por su diversidad cultural y desafíos políticos.
+Sushi,Comida,Plato japonés de arroz y pescado enrollados en algas nori.
+Pesto,Comida,Salsa italiana hecha con albahaca, piñones, queso y aceite de oliva.
+Jalea,Comida,tipo de confitura que se consigue a través del zumo de frutas y hortalizas.
+Arroz,Comida,Grano común utilizado como alimento básico en muchas culturas.
+Panes,Comida,Alimento horneado hecho de masa y levadura.
+Tacos,Comida,Plato mexicano que consta de tortillas rellenas de carne, verduras, etc.
+Pastel,Comida, Dulce hecho de harina, huevo, manteca y otros ingredientes.
+Salsa,Comida,Condimento líquido para acompañar platos de comida.
+Carne,Comida,Alimento de origen animal consumido como proteína.
+Queso,Comida,Producto lácteo sólido utilizado en muchas recetas.
+Arroz,Comida,Botánica planta cereal con fruto comestible.
+Guiso,Comida,Plato cocido a fuego lento con carne y verduras.
+Avena,Comida,Cereal comúnmente consumido en forma de gachas.
+Sushi,Comida,Plato japonés de arroz y pescado enrollados en algas nori.
+Tarta,Comida,Postre horneado con relleno dulce o salado.
+Carne,Comida,Productos o partes comestibles de los animales mamíferos y pájaros en contraposición a pescados y mariscos.
+Pitas,Comida,Tipo de pan plano blando, levemente fermentado, de harina de trigo.
+Jamón,Comida, patas traseras del cerdo previamente curadas.
+Crema,Comida,Producto lácteo con alto contenido de grasa.
+Tacos,Comida,Preparación culinaria muy popular de México que consiste en una tortilla.
+Oveja,animales,Animal doméstico lanudo, generalmente criado por su lana o carne.
+Cebra,animales,Mamífero herbívoro con rayas negras y blancas distintivas.
+Lince,animales,Felino de tamaño mediano, con orejas puntiagudas y pelaje manchado.
+Araña,animales,Arácnido con tráqueas en forma de bolsas comunicantes con el exterior.
+Pulpo,animales,Son un orden de moluscos cefalópodos octopodiformes.
+Piojo,animales,Pequeño parásito que vive en el pelaje de mamíferos.
+Alce,animales,Gran mamífero herbívoro, con astas anchas, que habita zonas boscosas.
+Carpa,animales,Tipo de pez de agua dulce, común en lagos y ríos.
+Grana,animales,Insecto pequeño cuyo cuerpo produce el colorante rojo carmín.
+Tucán,animales,Ave americana trepadora, de unos 30 cm de longitud, sin contar el pico.
+Ganzo,animales,Ave palmípeda de la que hay especies salvajes y una doméstica que es de color blanco o gris.
+Yegua,animales,Hembra del caballo.
+Oruga,animales,Larva de mariposa o polilla, generalmente con aspecto gusano.
+Erizo,animales, Mamífero insectívoro, de cuerpo rechoncho cubierto de espinas, hocico alargado y orejas pequeñas.
+Balsa,animales,Mamífero marino parecido a una foca pero de mayor tamaño.
+Hiena,animales, Mamífero carnívoro con el espinazo inclinado en posición caudal y el pelaje manchado.
+Gallo,animales,Macho de la gallina, ave comúnmente criada para su carne y huevos.
+Garza,animales,Ave zancuda de patas largas y cuello largo que habita en humedales.
+Burro,animales,animal más pequeño que el caballo y de orejas largas.
+Koala,animales,Mamífero marsupial australiano de patas prensiles, uñas afiladas, pelaje gris rojizo y cola rudimentaria.
